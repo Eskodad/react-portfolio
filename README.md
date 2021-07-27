@@ -12,7 +12,7 @@ This portfolio displays my always-continuing skillset I've gained thus far from 
 
 ## Usage
 
-To use this application simply visit the deployed site and navigate through the site using the links provided at the top of the page. You can access the deployed site [here](https://eskodad.github.io/react-portfolio/).
+To use this application simply visit the deployed site and navigate through the site using the links provided at the top of the page. You can access the deployed site [here](https://react-portfolio01.herokuapp.com).
 
 ## Contributions
 
