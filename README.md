@@ -24,4 +24,4 @@ If you have any further questions or concerns in respect to this application, fe
 
 ## Profile Screenshot
 
-![image](./src/assets/images/react-port-screenshot.JPG)
+![image](./src/assets/images/react-portfolio.png)
